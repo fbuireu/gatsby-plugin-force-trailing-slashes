@@ -1,4 +1,10 @@
 # gatsby-plugin-force-trailing-slashes
+You’re now entering a forked repository. At some point, I must have helped out or maybe I fixed part of its source code or contributed in other ways. The repository is now archived, read at your own risk.
+
+<details>
+  <summary>Find below the original README.md</summary>
+  
+  # gatsby-plugin-force-trailing-slashes
 
 ### ‼️ HEADS UP:
 
@@ -73,3 +79,5 @@ If you're using `gatsby-plugin-offline` make sure place this plugin _after_ the 
 ## Requirements
 
 Requires Gatsby v2
+  
+</details>
